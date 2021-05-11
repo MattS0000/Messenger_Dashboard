@@ -10,6 +10,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#download-your-data">Download your Data</a></li>
+        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -36,16 +37,17 @@ To get a local copy up and running follow these simple steps.
 2. Select "Format: JSON". Additionally it is recommended to set Quality to low and choose only Messages, for faster download.
 
 3. Put the downloaded file into Python_scripts folder and unzip it.
+
 ### Installation
 
 1. Clone the repo
-   ```sh
+   
    git clone https://github.com/github_username/repo_name.git
-   ```
+   
 2. Install requirements using pip
-   ```sh
-  pip install requirements.txt
-  ```
+   
+   pip install requirements.txt
+  
 
 
 
