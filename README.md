@@ -42,7 +42,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/MattS0000/Messenger_Dashboard.git
    
 2. Install requirements using pip
    
